@@ -1,0 +1,6 @@
+Dependencies for Project 'LED-REG', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\Compiler_5.06u7
+F (.\startup_stm32f10x_hd.s)(0x559784E2)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-ID:\keil537\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 537" --pd "STM32F10X_HD SETA 1"--list .\startup_stm32f10x_hd.lst --xref -o .\startup_stm32f10x_hd.o --depend .\startup_stm32f10x_hd.d)
+F (.\main.c)(0x62E9F1CD)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections-ID:\keil537\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="537" -DSTM32F10X_HD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (stm32f10x.h)(0x62E9DAE3)
+F (.\stm32f10x.h)(0x62E9DAE3)()
